@@ -1,1 +1,1 @@
-My first readme
+my fisrt training with tutor
